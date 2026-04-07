@@ -1,16 +1,29 @@
 ## Hi there 👋
+I'm Huy, a software engineer based in VietNam !
 
-<!--
-**HUYPHOENIX/HUYPHOENIX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I mostly working on mobile stuff - Flutter, Java (Android studio) and i also doing a little bit of website stuff too !
 
-Here are some ideas to get you started:
+I also know how to use figma to sketch my idea before apply it on the projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr/>
+
+<h1>Tools & FrameWork</h1>
+<ul>
+  <li>GitHub, Figma, Jira</li>
+  <li>DotNet, React, Flutter</li>
+</ul>
+<hr/>
+
+<h1>Programing Language</h1>
+<ul>
+  <li>C#, Java, TypeScript, JavaScript, Dart</li>
+</ul>
+
+<hr/>
+
+<h1>A bit about me</h1>
+<ul>
+  <li> 🐕 I have two dogs</li>
+  <li> 💪 I love going to the gym </li>
+  <li> 🚅 I love traveling </li>
+</ul>
